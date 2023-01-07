@@ -2,6 +2,6 @@
 
 >- 提供精美的二次元壁纸
 
-[接口维护中...](# ':include')
+[进入文档](main/ ':include')
 
-![](https://api.xieweiling.top/?kind=pc)
+![](https://api.xieweiling.top/?tag=pc)
