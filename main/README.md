@@ -174,42 +174,69 @@ https://api.xieweiling.top/?imgtype=mp
 </tr>
 </tbody></table>
 
->## json调用待适配
-
-
-<!--
+<br>
 
 >## JSON基础调用格式
 >- type=json
 
-- 示例： [点击前往](https://api.xieweiling.top/?tag=random&type=json) 
+- 示例： [点击前往](https://api.xieweiling.top/?type=json) 
 ```HTTPS
-https://api.xieweiling.top/?tag=random&type=json
+https://api.xieweiling.top/?type=json
 ```
 
 - 返回格式:
 
-```{"pic":"https:\/\/tva1.sinaimg.cn\/large\/008eUSAtgy1h3we4nb9sdj33vw230kjm.jpg"}```
+```
+[
+    {
+        "id": "212",
+        "imgurl": "https://img.beiko.top/img/mp/2q6oWF2h8aE=.jpg",
+        "tags": "唯美;",
+        "Upload_time": "2023-05-28"
+    }
+]
+```
 
->## JSON进阶格式
->- type=json1—10  
+>## JSON进阶参数
+>- num=
+>- 默认为1张图片，最多20张，超出20之后都算20张
 
-- 返回1到10张图（最高为10超出自动返图）
-
-- 示例： [点击前往](https://api.xieweiling.top/?tag=random&type=json5) 
+- 示例： [点击前往](https://api.xieweiling.top/?type=json&num=5) 
 ```HTTPS
-https://api.xieweiling.top/?tag=random&type=json5
+https://api.xieweiling.top/?tag=random&type=json&num=5
 ```
 - 返回格式：
 ```
-{
-    "pic": [
-        "https:\/\/tva1.sinaimg.cn\/large\/008eUSAtgy1h5fneir0akj31yv3hzkjm.jpg",
-        "https:\/\/tva1.sinaimg.cn\/large\/008eUSAtgy1h5flerlmv5j317c22kb29.jpg",
-        "https:\/\/tva1.sinaimg.cn\/large\/008eUSAtgy1h5fhespzdlj33jy4yo1l2.jpg",
-        "https:\/\/tva1.sinaimg.cn\/large\/008eUSAtgy1h5fdriqh8gj31y00vihb6.jpg",
-        "https:\/\/tva1.sinaimg.cn\/large\/008eUSAtgy1h5fkta1lfqj31c31y3ha6.jpg"
-    ]
-}
+[
+    {
+        "id": "3801",
+        "imgurl": "https://img.beiko.top/img/mp/jWSCKHGmc0I=.png",
+        "tags": "丝袜;制服;",
+        "Upload_time": "2023-05-28"
+    },
+    {
+        "id": "3952",
+        "imgurl": "https://img.beiko.top/img/mp/uYK[iWXr0Fs=.jpg",
+        "tags": "唯美;",
+        "Upload_time": "2023-05-28"
+    },
+    {
+        "id": "3547",
+        "imgurl": "https://img.beiko.top/img/mp/[AoM+vVmP2U=.jpg",
+        "tags": "兽耳;",
+        "Upload_time": "2023-05-28"
+    },
+    {
+        "id": "5139",
+        "imgurl": "https://img.beiko.top/img/pc/Q2+4LgKuKwI=.jpg",
+        "tags": "兽耳;",
+        "Upload_time": "2023-05-28"
+    },
+    {
+        "id": "810",
+        "imgurl": "https://img.beiko.top/img/mp/ca0NuJXRHbQ=.jpg",
+        "tags": "制服;",
+        "Upload_time": "2023-05-28"
+    }
+]
 ```
--->
