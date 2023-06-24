@@ -3,8 +3,8 @@
 <div class="sidebar-nav">
 <ul>
 <li class="active">
-<li><a class="section-link" href="#/main/?id=前言" title="前言">前言</a></li><li class=""></li>
-<li><a class="section-link" href="#/main/?id=api基本调用格式" title="API基本调用格式">API基本调用格式</a></li><li class=""></li>
+<li><a class="section-link" href="#/main/?id=前言" title="前言">前言</a></li>
+<li><a class="section-link" href="#/main/?id=api基本调用格式" title="API基本调用格式">API基本调用格式</a></li>
 <li><a class="section-link" href="#/main/?id=图片类型" title="图片类型">图片类型</a></li>
 <li><a class="section-link" href="#/main/?id=图片标签" title="图片标签">图片标签</a></li>
 <li><a class="section-link" href="#/main/?id=多标签精准搜索" title="多标签精准搜索">多标签精准搜索</a></li>
