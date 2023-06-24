@@ -115,8 +115,27 @@ https://api.xieweiling.top/?imgtype=mp
 >## 多标签精准搜索
 >- 参数：search=
 >- 默认为0，如果是1则为精准搜索，0则是模糊搜索
->- 可添加多个标签，如需多标签，请在每个标签后面添加一个英文逗号
+>- 精准搜索会同时查找所填写的多个标签，只会输出包含填写的所有标签的图片，如果没有找到，会自动输出提示
+>- 模糊搜索就是填写多标签后会自动返回拥有其中一个标签的图片
 
+<table>
+<thead>
+<tr>
+<th>搜索模式</th>
+<th>参数</th>
+<th>图片标签</th>
+<th>示例</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>模糊搜索</td>
+<td>0</td>
+<td>泳装+兽耳</td>
+<td><a href="https://api.xieweiling.top/?tags=泳装,兽耳&search=0" target="_blank">https://api.xieweiling.top/?tags=泳装,兽耳&search=0</a></td>
+</tr>
+<tr>
+</tbody></table>
 
 >## 请求图片规格大小
 
