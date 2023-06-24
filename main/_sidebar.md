@@ -9,5 +9,5 @@
 <li><a class="section-link" href="#/main/?id=图片标签" title="图片标签">图片标签</a></li>
 <li><a class="section-link" href="#/main/?id=多标签精准搜索" title="多标签精准搜索">多标签精准搜索</a></li>
 <li><a class="section-link" href="#/main/?id=请求图片规格大小" title="请求图片规格大小">请求图片规格大小</a></li>
-<li><a class="section-link" href="#/main/?id=json基础参数" title="json基础调用格式">json基础调用格式</a></li>
+<li><a class="section-link" href="#/main/?id=json基础调用格式" title="json基础调用格式">json基础调用格式</a></li>
 <li><a class="section-link" href="#/main/?id=json进阶参数" title="json进阶参数">json进阶参数</a></li></ul></li>
