@@ -112,6 +112,8 @@ https://api.xieweiling.top/?imgtype=mp
 </tr>
 </tbody></table>
 
+<br>
+
 >## 多标签精准搜索
 >- 参数：search=
 >- 默认为0，如果是1则为精准搜索，0则是模糊搜索
@@ -144,6 +146,8 @@ https://api.xieweiling.top/?imgtype=mp
 <tr>
 </tbody></table>
 
+<br>
+
 >## 请求图片规格大小
 
 - 参数：size
@@ -161,12 +165,12 @@ https://api.xieweiling.top/?imgtype=mp
 <tbody><tr>
 <td><code>原图</code></td>
 <td>large</td>
-<td><a href="https://api.xieweiling.top/?tag=random&size=large" target="_blank">https://api.xieweiling.top/?tag=random&size=large</a></td>
+<td><a href="https://api.xieweiling.top/?size=large" target="_blank">https://api.xieweiling.top/?size=large</a></td>
 </tr>
 <tr>
 <td><code>略缩图</code></td>
 <td>medium</td>
-<td><a href="https://api.xieweiling.top/?tag=random&size=medium" target="_blank">https://api.xieweiling.top/?tag=random&size=medium</a></td>
+<td><a href="https://api.xieweiling.top/?size=medium" target="_blank">https://api.xieweiling.top/?size=medium</a></td>
 </tr>
 </tbody></table>
 
