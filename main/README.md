@@ -58,6 +58,8 @@ https://api.xieweiling.top/?imgtype=mp
 >#### 原来是包含在图片类型参数里面，现单独分开成一个参数
 >- 参数：tags=
 >- 如果不带参数默认随机输出一张图片
+>- 可添加多个标签，如需多标签，请在每个标签后面添加一个英文逗号
+>- 多标签填写的第一个为主标签，其余都为辅标签，如果一开始找不到第一个标签的图片，会自动返回副标签图片
 
 <table>
 <thead>
@@ -98,6 +100,14 @@ https://api.xieweiling.top/?imgtype=mp
 <tr>
 <td>其他</td>
 <td><a href="https://api.xieweiling.top/?tags=其他" target="_blank">https://api.xieweiling.top/?tags=其他</a></td>
+</tr>
+<tr>
+<td>唯美+泳装</td>
+<td><a href="https://api.xieweiling.top/?tags=唯美,泳装" target="_blank">https://api.xieweiling.top/?tags=唯美,泳装</a></td>
+</tr>
+<tr>
+<td>制服+兽耳</td>
+<td><a href="https://api.xieweiling.top/?tags=制服,兽耳" target="_blank">https://api.xieweiling.top/?tags=制服,兽耳</a></td>
 </tr>
 </tbody></table>
 
