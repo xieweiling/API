@@ -52,46 +52,54 @@ https://api.xieweiling.top/?imgtype=pc
 ```HTTPS
 https://api.xieweiling.top/?imgtype=mp
 ```
-- 风景： [点击前往](https://api.xieweiling.top/?tag=fj)
+<br>
 
-```HTTPS
-https://api.xieweiling.top/?tag=fj
-```
-- 兽耳： [点击前往](https://api.xieweiling.top/?tag=cat) 
+>## 图片标签
+>#### 原来是包含在图片类型参数里面，现单独分开成一个参数
+>- 参数：tags=
+>- 如果不带参数默认随机输出一张图片
 
-```HTTPS
-https://api.xieweiling.top/?tag=cat
-```
-- 泳装： [点击前往](https://api.xieweiling.top/?tag=yz) 
-
-```HTTPS
-https://api.xieweiling.top/?tag=yz
-```
-- 女仆： [点击前往](https://api.xieweiling.top/?tag=np) 
-
-```HTTPS
-https://api.xieweiling.top/?tag=np
-```
-- 制服： [点击前往](https://api.xieweiling.top/?tag=zf) 
-
-```HTTPS
-https://api.xieweiling.top/?tag=zf
-```
-- 丝袜： [点击前往](https://api.xieweiling.top/?tag=sw) 
-
-```HTTPS
-https://api.xieweiling.top/?tag=sw
-```
-- 唯美： [点击前往](https://api.xieweiling.top/?tag=wm) 
-
-```HTTPS
-https://api.xieweiling.top/?tag=wm
-```
-- 其他： [点击前往](https://api.xieweiling.top/?tag=qt) 
-
-```HTTPS
-https://api.xieweiling.top/?tag=qt
-```
+<table>
+<thead>
+<tr>
+<th>图片参数</th>
+<th>示例</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>唯美</td>
+<td><a href="https://api.xieweiling.top/?tag=random&size=large" target="_blank">https://api.xieweiling.top/?tag=random&size=large</a></td>
+</tr>
+<tr>
+<td>风景</td>
+<td><a href="https://api.xieweiling.top/?tag=random&size=medium" target="_blank">https://api.xieweiling.top/?tag=random&size=medium</a></td>
+</tr>
+<tr>
+<td>兽耳</td>
+<td><a href="https://api.xieweiling.top/?tag=random&size=medium" target="_blank">https://api.xieweiling.top/?tag=random&size=medium</a></td>
+</tr>
+<tr>
+<td>泳装</td>
+<td><a href="https://api.xieweiling.top/?tag=random&size=medium" target="_blank">https://api.xieweiling.top/?tag=random&size=medium</a></td>
+</tr>
+<tr>
+<td>女仆</td>
+<td><a href="https://api.xieweiling.top/?tag=random&size=medium" target="_blank">https://api.xieweiling.top/?tag=random&size=medium</a></td>
+</tr>
+<tr>
+<td>制服</td>
+<td><a href="https://api.xieweiling.top/?tag=random&size=medium" target="_blank">https://api.xieweiling.top/?tag=random&size=medium</a></td>
+</tr>
+<tr>
+<td>丝袜</td>
+<td><a href="https://api.xieweiling.top/?tag=random&size=medium" target="_blank">https://api.xieweiling.top/?tag=random&size=medium</a></td>
+</tr>
+<tr>
+<td>其他</td>
+<td><a href="https://api.xieweiling.top/?tag=random&size=medium" target="_blank">https://api.xieweiling.top/?tag=random&size=medium</a></td>
+</tr>
+</tbody></table>
 
 >## 请求图片规格大小
 
