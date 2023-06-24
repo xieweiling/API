@@ -69,35 +69,35 @@ https://api.xieweiling.top/?imgtype=mp
 <tbody>
 <tr>
 <td>唯美</td>
-<td><a href="https://api.xieweiling.top/?tag=random&size=large" target="_blank">https://api.xieweiling.top/?tag=random&size=large</a></td>
+<td><a href="https://api.xieweiling.top/?tags=唯美" target="_blank">https://api.xieweiling.top/?tag=random&size=large</a></td>
 </tr>
 <tr>
 <td>风景</td>
-<td><a href="https://api.xieweiling.top/?tag=random&size=medium" target="_blank">https://api.xieweiling.top/?tag=random&size=medium</a></td>
+<td><a href="https://api.xieweiling.top/?tags=风景" target="_blank">https://api.xieweiling.top/?tag=random&size=medium</a></td>
 </tr>
 <tr>
 <td>兽耳</td>
-<td><a href="https://api.xieweiling.top/?tag=random&size=medium" target="_blank">https://api.xieweiling.top/?tag=random&size=medium</a></td>
+<td><a href="https://api.xieweiling.top/?tags=兽耳" target="_blank">https://api.xieweiling.top/?tag=random&size=medium</a></td>
 </tr>
 <tr>
 <td>泳装</td>
-<td><a href="https://api.xieweiling.top/?tag=random&size=medium" target="_blank">https://api.xieweiling.top/?tag=random&size=medium</a></td>
+<td><a href="https://api.xieweiling.top/?tags=泳装" target="_blank">https://api.xieweiling.top/?tag=random&size=medium</a></td>
 </tr>
 <tr>
 <td>女仆</td>
-<td><a href="https://api.xieweiling.top/?tag=random&size=medium" target="_blank">https://api.xieweiling.top/?tag=random&size=medium</a></td>
+<td><a href="https://api.xieweiling.top/?tags=女仆" target="_blank">https://api.xieweiling.top/?tag=random&size=medium</a></td>
 </tr>
 <tr>
 <td>制服</td>
-<td><a href="https://api.xieweiling.top/?tag=random&size=medium" target="_blank">https://api.xieweiling.top/?tag=random&size=medium</a></td>
+<td><a href="https://api.xieweiling.top/?tags=制服" target="_blank">https://api.xieweiling.top/?tag=random&size=medium</a></td>
 </tr>
 <tr>
 <td>丝袜</td>
-<td><a href="https://api.xieweiling.top/?tag=random&size=medium" target="_blank">https://api.xieweiling.top/?tag=random&size=medium</a></td>
+<td><a href="https://api.xieweiling.top/?tags=丝袜" target="_blank">https://api.xieweiling.top/?tag=random&size=medium</a></td>
 </tr>
 <tr>
 <td>其他</td>
-<td><a href="https://api.xieweiling.top/?tag=random&size=medium" target="_blank">https://api.xieweiling.top/?tag=random&size=medium</a></td>
+<td><a href="https://api.xieweiling.top/?tags=其他" target="_blank">https://api.xieweiling.top/?tag=random&size=medium</a></td>
 </tr>
 </tbody></table>
 
