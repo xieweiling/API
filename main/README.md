@@ -204,7 +204,7 @@ https://api.xieweiling.top/?type=json
 
 - 示例： [点击前往](https://api.xieweiling.top/?type=json&num=5) 
 ```HTTPS
-https://api.xieweiling.top/?tag=random&type=json&num=5
+https://api.xieweiling.top/?type=json&num=5
 ```
 - 返回格式：
 ```
