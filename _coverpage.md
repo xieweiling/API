@@ -4,4 +4,4 @@
 
 [进入文档](main/ ':include')
 
-![](https://api.xieweiling.top/?tag=pcwm)
+![](https://api.xieweiling.top/?imgtype=pc&tags=唯美)
