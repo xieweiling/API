@@ -147,6 +147,7 @@ https://api.xieweiling.top/?imgtype=mp
 <br>
 
 >## 请求图片规格大小
+
 >- 参数：size
 >- 默认为略缩图 medium
 >- 访问原图并不会直接打开图片，而会变成直接下载图片
